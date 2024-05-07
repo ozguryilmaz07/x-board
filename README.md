@@ -1,5 +1,5 @@
 ![](http://i.imgur.com/0wivQLV.png)
-**t-board** is a multiple twitter account management app, it helps you to login to multiple twitter accounts from your iOS or Android device and do various twitter activities like tweeting, re-tweeting, favorites, follow, unfollow, scheduling tweets etc. Its a a very powerful twitter marketing automation app.
+**x-board** is a multiple twitter account management app, it helps you to login to multiple twitter accounts from your iOS or Android device and do various twitter activities like tweeting, re-tweeting, favorites, follow, unfollow, scheduling tweets etc. Its a a very powerful twitter marketing automation app.
 
 Features:
 ===========
@@ -62,11 +62,11 @@ After building and configuring the project while running on your device ,you mig
 
  Installation Guide IOS:
 ===========
-1. Extract the downloaded t-boardpro.zip file.
+1. Extract the downloaded x-boardpro.zip file.
 
-2. Open the t-boardpro folder,you will find t-boardpro.xcodeProject file and double click on that folder to open Xcode.
+2. Open the x-boardpro folder,you will find x-boardpro.xcodeProject file and double click on that folder to open Xcode.
  ![](http://i.imgur.com/KvoNsL4.png)
-3. Click on project file from Project navigator and click on the t-boardpro under the Targets.
+3. Click on project file from Project navigator and click on the x-boardpro under the Targets.
 4. Click on General , set the proper Bundle Identifier and go to Build settings menu, change Proovisioning profile under Code Signing.
  ![](http://i.imgur.com/nf2pBHd.png)
 5. Go to Prefix File and set the client_id and client_secrete id . 
